@@ -1,1 +1,2 @@
-This is a reference file!
+# References
+* This is a reference file!
